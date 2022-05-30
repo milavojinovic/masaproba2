@@ -1,0 +1,40 @@
+body{
+    background-color: #DDD5C3;
+    color: black;
+}
+
+h1{
+    text-align: center;
+    color: black;
+}
+
+h3{
+    text-align: center; 
+    color: black;
+}
+
+nav ul {
+    font-family: sans-serif;
+    font-size: 14px;
+    float: left;
+    position: absolute;
+    left: 33%;
+  }
+
+  nav li {
+    display: inline-block;
+  }
+
+  nav {
+    background-color:  #605D55;
+    height: 40px;
+  }
+
+  nav a {
+    background: #BFA770;
+    color: black;
+    padding: 12px 20px;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 16px;
+  }
